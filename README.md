@@ -61,10 +61,12 @@ httpd.serve_forever()
 
 ## OUTPUT:
 ### server output:
-![serveroutput](./server%20output.png)
+![server output](https://github.com/SUBBIAH1904/webserver/assets/147473604/84efc984-003d-4727-bff0-017dfd46329a)
+
 
 ### client output:
-![severoutput](./client%20output.png)
+
+![client output](https://github.com/SUBBIAH1904/webserver/assets/147473604/6b1aa2a4-8396-455f-b1d7-66852cae034d)
 
 
 ## RESULT:
